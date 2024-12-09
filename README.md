@@ -1,3 +1,3 @@
-# Trend Prediction and High-frequency Trading Strategy Using Limit Order Book
+# Multi-Step Multi-Variate Time Series Forecasting of Vehicle Simulator States
 
-This project explores the application of advanced data analytics to predict near-term price movements and generate trading signals using Level2 data from financial markets. Time series analysis using ARIMA, SARIMAX and LSTM models for a single tradable asset, regression of price predictions, and classification of buy, sell, and hold signals. A simulated trading environment was used to evaluate the profitability of these models. The results from this empirical investigation highlight the challenges and opportunities of leveraging high-frequency trading data in developing automated trading strategies that capitalize on second price movements. The findings emphasize the importance of sophisticated data-processing and feature-engineering techniques to improve the accuracy and profitability of predictive trading models.
+This project aims to develop a fast, accurate and robust predictive model that can accurately forecast vehicle states with good precision.
